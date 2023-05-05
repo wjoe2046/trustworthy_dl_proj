@@ -1,0 +1,4957 @@
+[
+    {
+        "id": "train_1",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_2",
+        "correct_answer": "1",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_3",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_7",
+        "correct_answer": "1",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_8",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_9",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_11",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_12",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_13",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_14",
+        "correct_answer": "1",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_18",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_19",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_20",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_21",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_24",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_26",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_27",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_28",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_29",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_30",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_31",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_33",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_34",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_36",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_40",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_42",
+        "correct_answer": "2",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_45",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_46",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_47",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_48",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_49",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_50",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_52",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_54",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_55",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_56",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_60",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_62",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_63",
+        "correct_answer": "1",
+        "gpt3_answer": "1? It cannot be self-indulgent for a filmmaker to give an audience what it most wants."
+    },
+    {
+        "id": "train_66",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_67",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_68",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_69",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_71",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_76",
+        "correct_answer": "3",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_77",
+        "correct_answer": "0",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_79",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_80",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_82",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_85",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_86",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_87",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_88",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_90",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_92",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_93",
+        "correct_answer": "2",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_95",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_97",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_98",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_99",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_100",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_101",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_102",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_103",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_106",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_107",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_108",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_109",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_110",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_111",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_113",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_116",
+        "correct_answer": "1",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_117",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_119",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_121",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_122",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_123",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_124",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_125",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_126",
+        "correct_answer": "1",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_129",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_130",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_133",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_134",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_135",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_137",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_138",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_139",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_140",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_145",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_146",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_148",
+        "correct_answer": "0",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_149",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_150",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_154",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_155",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_157",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_158",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_159",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_160",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_161",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_162",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_163",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_166",
+        "correct_answer": "0",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_168",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_169",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_170",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_171",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_172",
+        "correct_answer": "1",
+        "gpt3_answer": "1? The first is a position that the ecologist rejects; the second provides evidence in support of that rejection."
+    },
+    {
+        "id": "train_175",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_176",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_179",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_181",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_183",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_184",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_185",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_186",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n\"1\""
+    },
+    {
+        "id": "train_187",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_188",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_190",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_195",
+        "correct_answer": "2",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_196",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_198",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_200",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_205",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_207",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_210",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_211",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_213",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_214",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_216",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_217",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_218",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_219",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_220",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_223",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_224",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_225",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_226",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_229",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_230",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_231",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_232",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_233",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_238",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_240",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_241",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_242",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n1"
+    },
+    {
+        "id": "train_243",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_244",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_245",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_246",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_247",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_248",
+        "correct_answer": "2",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_253",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_255",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_256",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_257",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_258",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_260",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_261",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_262",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_265",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_266",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_267",
+        "correct_answer": "1",
+        "gpt3_answer": " \"<1>\""
+    },
+    {
+        "id": "train_268",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_270",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_272",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_274",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_275",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_278",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_279",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_281",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_282",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_285",
+        "correct_answer": "0",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_287",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n\"1\""
+    },
+    {
+        "id": "train_288",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_289",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_290",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_291",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_292",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_293",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_295",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_297",
+        "correct_answer": "1",
+        "gpt3_answer": " \"The first is the argument's main conclusion; the second supports that conclusion and is itself a conclusion for which support is provided.\""
+    },
+    {
+        "id": "train_298",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_299",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_302",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_303",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_304",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_305",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_307",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_308",
+        "correct_answer": "0",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_312",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_313",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_314",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_316",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_317",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_318",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_319",
+        "correct_answer": "1",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_320",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_321",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_322",
+        "correct_answer": "1",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_328",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_329",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_330",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_331",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_334",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_335",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_336",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_339",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_341",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_342",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_344",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_345",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_346",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_347",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_348",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_350",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_352",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_353",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_354",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_356",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_357",
+        "correct_answer": "1",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_358",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_360",
+        "correct_answer": "1",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_362",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_368",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_369",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_371",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_372",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_373",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_375",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_377",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_379",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_380",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_381",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_384",
+        "correct_answer": "3",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_385",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_387",
+        "correct_answer": "3",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_388",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_390",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_392",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_395",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_397",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_399",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_400",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_402",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_404",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_405",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_407",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_411",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_412",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_414",
+        "correct_answer": "0",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_416",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_419",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_421",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_422",
+        "correct_answer": "1",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_423",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_424",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_425",
+        "correct_answer": "0",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_427",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_429",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_430",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_433",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_434",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_435",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_438",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_440",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_441",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_442",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_444",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_445",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_447",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_448",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_449",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_450",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_451",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_452",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_453",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_454",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_456",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_458",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_459",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_463",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_464",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_466",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_467",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_469",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_470",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_471",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_473",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_474",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_475",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_477",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_478",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_482",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_484",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_487",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_488",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_489",
+        "correct_answer": "0",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_491",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_492",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_494",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_495",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_496",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_498",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_499",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_500",
+        "correct_answer": "1",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_501",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_502",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_503",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_505",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_506",
+        "correct_answer": "1",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_507",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_508",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_509",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_510",
+        "correct_answer": "1",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_512",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_514",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_515",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_516",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_517",
+        "correct_answer": "2",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_518",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_521",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_522",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_524",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_525",
+        "correct_answer": "0",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_528",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_529",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_532",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_534",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_537",
+        "correct_answer": "0",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_539",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_541",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_543",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_546",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_548",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_552",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_553",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_555",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_556",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_558",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_562",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_565",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_566",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_567",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_568",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_569",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n\"0\""
+    },
+    {
+        "id": "train_570",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_571",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_572",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_573",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_575",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_576",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_578",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_579",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_580",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_581",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2. Most people who illegally copy programs would not purchase them even if purchasing them were the only way to obtain them."
+    },
+    {
+        "id": "train_582",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_584",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_585",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_587",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_589",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_590",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_592",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_594",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_597",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_598",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_606",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_607",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_610",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_613",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_614",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_616",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_617",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_619",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_620",
+        "correct_answer": "3",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_622",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_623",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_625",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_626",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_628",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_629",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_630",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_631",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_632",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_635",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_636",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_637",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_638",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_641",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_642",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_644",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_648",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_649",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_650",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_651",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_652",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_653",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_654",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_655",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_656",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_658",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_659",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_661",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_663",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_664",
+        "correct_answer": "0",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_667",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_668",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_669",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_671",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_672",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_673",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_675",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_676",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_677",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_678",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_679",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_680",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_681",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_682",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_686",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_687",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_688",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_689",
+        "correct_answer": "2",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_690",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_691",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_692",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_693",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_694",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_698",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_700",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_702",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_703",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_705",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_707",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_708",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_709",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_710",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_711",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_712",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_713",
+        "correct_answer": "2",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_714",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_715",
+        "correct_answer": "3",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_716",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_717",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_718",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_719",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_720",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_721",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_724",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_726",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_727",
+        "correct_answer": "2",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_728",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_729",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_730",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_731",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_732",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_733",
+        "correct_answer": "1",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_736",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_737",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_738",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_741",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_742",
+        "correct_answer": "0",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_743",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_746",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_747",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_748",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_749",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_751",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_752",
+        "correct_answer": "1",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_755",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_760",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_761",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_762",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_763",
+        "correct_answer": "1",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_765",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_768",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_769",
+        "correct_answer": "2",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_770",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_771",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_772",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_774",
+        "correct_answer": "0",
+        "gpt3_answer": " \n\n\"0\""
+    },
+    {
+        "id": "train_776",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_777",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_778",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_779",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_781",
+        "correct_answer": "1",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_782",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_783",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_784",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_786",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_788",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_789",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_792",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_793",
+        "correct_answer": "2",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_794",
+        "correct_answer": "2",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_795",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_796",
+        "correct_answer": "2",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_797",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_798",
+        "correct_answer": "0",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_799",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_801",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_802",
+        "correct_answer": "3",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_803",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_805",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_806",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_808",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_810",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_811",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_812",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_814",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_815",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_817",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_820",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_821",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_822",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_823",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_824",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_826",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_829",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_831",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_833",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_834",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_835",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_836",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_839",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_842",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_843",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_845",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_846",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_852",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_853",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_854",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_855",
+        "correct_answer": "1",
+        "gpt3_answer": ": \"1\""
+    },
+    {
+        "id": "train_857",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_858",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_861",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_862",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_863",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_866",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_867",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_868",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_869",
+        "correct_answer": "1",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_870",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_872",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_873",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_874",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_875",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_876",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_877",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_883",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_884",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_888",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_891",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_894",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_895",
+        "correct_answer": "0",
+        "gpt3_answer": " \n\n0"
+    },
+    {
+        "id": "train_896",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_899",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_900",
+        "correct_answer": "1",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_901",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_903",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_904",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_905",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_906",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_907",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_908",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_909",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_910",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_911",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_912",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_913",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_914",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_916",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_919",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_920",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_922",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_923",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_927",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_931",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_932",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_935",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_938",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_940",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_941",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_943",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_944",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_945",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_946",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_947",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_953",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_956",
+        "correct_answer": "1",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_957",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_961",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_963",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_965",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_966",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_970",
+        "correct_answer": "2",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_972",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_973",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_974",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_979",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_981",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_982",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_984",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_985",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\n\n3"
+    },
+    {
+        "id": "train_986",
+        "correct_answer": "1",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_987",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_989",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_990",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_991",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_992",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_993",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_995",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_997",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_999",
+        "correct_answer": "2",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1000",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1001",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1002",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1004",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1005",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1006",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1012",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1014",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1016",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1017",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1018",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1019",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1020",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1022",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1023",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1025",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1027",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1030",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1031",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1032",
+        "correct_answer": "0",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1033",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1034",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1035",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1036",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1037",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_1038",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1039",
+        "correct_answer": "3",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1040",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1041",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1042",
+        "correct_answer": "2",
+        "gpt3_answer": " \n\n3"
+    },
+    {
+        "id": "train_1045",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1046",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1047",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1048",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1053",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1054",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1058",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1062",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1063",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_1065",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1066",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1067",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1068",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1070",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1071",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1072",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1073",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1074",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1076",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1077",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1078",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1080",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1081",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1082",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1083",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1084",
+        "correct_answer": "2",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1085",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1088",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1089",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1090",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_1093",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1094",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1095",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1100",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1101",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1102",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1103",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1105",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1106",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1108",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1110",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1112",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1114",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n\"1\""
+    },
+    {
+        "id": "train_1115",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1117",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1119",
+        "correct_answer": "1",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1120",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1122",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1123",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1124",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1125",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1127",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1128",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1131",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1134",
+        "correct_answer": "0",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1135",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1136",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1138",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1140",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1141",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1142",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1144",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1146",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1147",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1148",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1149",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1150",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1151",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1154",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1156",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1157",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1158",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_1160",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1161",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1163",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1166",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1167",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1168",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_1169",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_1170",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1172",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1173",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1174",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1175",
+        "correct_answer": "0",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1176",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1179",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1180",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1182",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1184",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1185",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1186",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1187",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_1189",
+        "correct_answer": "1",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1190",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1191",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1192",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1195",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1196",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1197",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1198",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1199",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1200",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1204",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"The more calculations an accountant performs, the more money he or she will earn.\""
+    },
+    {
+        "id": "train_1205",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1207",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1209",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1210",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1216",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_1217",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1218",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1220",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1222",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_1224",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1225",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1226",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1227",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1228",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1233",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1234",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1236",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1237",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1238",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1240",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1241",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1246",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1247",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1251",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1252",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1253",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1254",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1256",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_1259",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1260",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1261",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_1262",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1263",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1267",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1268",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1270",
+        "correct_answer": "3",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1272",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1273",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1274",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1275",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1279",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1280",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1282",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1283",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1284",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1285",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1288",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1291",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1294",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1295",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1296",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1298",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1299",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1300",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1301",
+        "correct_answer": "1",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1308",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n\"0\""
+    },
+    {
+        "id": "train_1309",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1310",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1311",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1313",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1314",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1315",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1316",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1318",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_1319",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1320",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1321",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1324",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1325",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1329",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1332",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1333",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1335",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1337",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1338",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_1340",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n1"
+    },
+    {
+        "id": "train_1345",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1346",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1347",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1349",
+        "correct_answer": "2",
+        "gpt3_answer": "\n \n2"
+    },
+    {
+        "id": "train_1350",
+        "correct_answer": "1",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1352",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1353",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1356",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1357",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1359",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1360",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1362",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1364",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1366",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1367",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n\"1\" People who are not dissatisfied with themselves are less likely than others to pursue personal excellence."
+    },
+    {
+        "id": "train_1368",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1369",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1370",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1372",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1373",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1374",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1376",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1378",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1381",
+        "correct_answer": "2",
+        "gpt3_answer": " \n\n3 - 'Where a moral duty exists, it supersedes any legal duty and any other kind of duty.'"
+    },
+    {
+        "id": "train_1382",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1385",
+        "correct_answer": "1",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1391",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1392",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1394",
+        "correct_answer": "1",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1395",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1396",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1397",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n0"
+    },
+    {
+        "id": "train_1398",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1399",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1400",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_1405",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1409",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1412",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1413",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1415",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1416",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1418",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1419",
+        "correct_answer": "1",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1420",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1422",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1423",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1424",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1427",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1428",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1429",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1432",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1436",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1437",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_1439",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1440",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1442",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1445",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1446",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n\"1\""
+    },
+    {
+        "id": "train_1447",
+        "correct_answer": "0",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1449",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1451",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1453",
+        "correct_answer": "2",
+        "gpt3_answer": " 2"
+    },
+    {
+        "id": "train_1454",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1455",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1456",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1457",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_1458",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1460",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1463",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1464",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1465",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_1469",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1474",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1475",
+        "correct_answer": "1",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1477",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1478",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1479",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1481",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1482",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1483",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1484",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1485",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1486",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1487",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n\"0\""
+    },
+    {
+        "id": "train_1489",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1491",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1492",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1493",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n\"1\""
+    },
+    {
+        "id": "train_1494",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1496",
+        "correct_answer": "2",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1498",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1499",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1500",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1504",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1505",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1509",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1510",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1511",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1512",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1513",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1514",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1516",
+        "correct_answer": "1",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1518",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1519",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1520",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1521",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1522",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1526",
+        "correct_answer": "0",
+        "gpt3_answer": "\n\n\"0\""
+    },
+    {
+        "id": "train_1527",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1528",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1529",
+        "correct_answer": "2",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1530",
+        "correct_answer": "2",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1533",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1534",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1535",
+        "correct_answer": "1",
+        "gpt3_answer": "1?"
+    },
+    {
+        "id": "train_1537",
+        "correct_answer": "3",
+        "gpt3_answer": " \"3\""
+    },
+    {
+        "id": "train_1538",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1539",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1542",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1543",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1544",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1545",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1548",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1549",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1551",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1552",
+        "correct_answer": "2",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1555",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1557",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1558",
+        "correct_answer": "0",
+        "gpt3_answer": " \"0\""
+    },
+    {
+        "id": "train_1559",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1562",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1565",
+        "correct_answer": "0",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1566",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1569",
+        "correct_answer": "2",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1570",
+        "correct_answer": "1",
+        "gpt3_answer": " \n\n1"
+    },
+    {
+        "id": "train_1572",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1573",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1576",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1578",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1579",
+        "correct_answer": "2",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1580",
+        "correct_answer": "0",
+        "gpt3_answer": "0?"
+    },
+    {
+        "id": "train_1581",
+        "correct_answer": "0",
+        "gpt3_answer": " 0"
+    },
+    {
+        "id": "train_1583",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1584",
+        "correct_answer": "3",
+        "gpt3_answer": "3?"
+    },
+    {
+        "id": "train_1585",
+        "correct_answer": "0",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1586",
+        "correct_answer": "2",
+        "gpt3_answer": " \"2\""
+    },
+    {
+        "id": "train_1587",
+        "correct_answer": "1",
+        "gpt3_answer": " \"1\""
+    },
+    {
+        "id": "train_1589",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n2"
+    },
+    {
+        "id": "train_1590",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1592",
+        "correct_answer": "2",
+        "gpt3_answer": "2?"
+    },
+    {
+        "id": "train_1595",
+        "correct_answer": "0",
+        "gpt3_answer": "0"
+    },
+    {
+        "id": "train_1596",
+        "correct_answer": "3",
+        "gpt3_answer": "\n\n\"3\""
+    },
+    {
+        "id": "train_1598",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1599",
+        "correct_answer": "1",
+        "gpt3_answer": ""
+    },
+    {
+        "id": "train_1600",
+        "correct_answer": "1",
+        "gpt3_answer": "1"
+    },
+    {
+        "id": "train_1602",
+        "correct_answer": "2",
+        "gpt3_answer": "2"
+    },
+    {
+        "id": "train_1605",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1607",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1608",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    },
+    {
+        "id": "train_1610",
+        "correct_answer": "1",
+        "gpt3_answer": " 1"
+    },
+    {
+        "id": "train_1613",
+        "correct_answer": "2",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1615",
+        "correct_answer": "3",
+        "gpt3_answer": "3"
+    },
+    {
+        "id": "train_1616",
+        "correct_answer": "1",
+        "gpt3_answer": "\n\n3"
+    },
+    {
+        "id": "train_1618",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n\"2\""
+    },
+    {
+        "id": "train_1622",
+        "correct_answer": "2",
+        "gpt3_answer": "\n\n1"
+    },
+    {
+        "id": "train_1624",
+        "correct_answer": "3",
+        "gpt3_answer": " 3"
+    }
+]
